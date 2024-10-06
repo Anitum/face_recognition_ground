@@ -3,3 +3,4 @@ __pycache__/
 logs/
 archi/cred/
 output_images/
+weights/
