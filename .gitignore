@@ -1,0 +1,5 @@
+deployment_env/
+__pycache__/
+logs/
+archi/cred/
+output_images/
