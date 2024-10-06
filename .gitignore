@@ -4,3 +4,11 @@ logs/
 archi/cred/
 output_images/
 weights/
+demo/
+
+demo/demo_boys.mp4
+test2.avi
+ttest.avi
+
+# Ignore all files larger than 50MB
+**/[0-9][0-9][0-9]mb.*
